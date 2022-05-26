@@ -1,6 +1,14 @@
 Changelog
 =========
 
+0.4 (2022-06-26)
+------------------
+
+- Added support for radio_list
+- Added support for check_list
+- Added support for default values
+- Added structured logging
+
 0.2 (2014-01-23)
 ------------------
 

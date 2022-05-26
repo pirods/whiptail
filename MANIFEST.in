@@ -1,6 +1,6 @@
 include LICENSE
 include *.txt
-include *.rst
+include *.md
 recursive-include docs *
 recursive-include testsuite *
 recursive-exclude docs *.pyc

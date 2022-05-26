@@ -1,7 +1,7 @@
 import re
 from setuptools import setup
 
-readme = open('README.rst').read()
+readme = open('README.md').read()
 changes = open('CHANGES.txt').read()
 version_file = 'whiptail.py'
 version = re.findall("__version__ = '(.*)'", open(version_file).read())[0]
